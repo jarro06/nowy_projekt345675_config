@@ -1,0 +1,36 @@
+generalInformation:
+  serviceAdminEmail: jarro06@gmail.com
+  gheUsername: backstage-config-file
+  billingAccount: "3213123"
+  billingTeamName: "3213213"
+  gheToken: ""
+  adpAccessToken: ""
+jira:
+  adminToken: ""
+  projectKey: "213"
+  projectName: new-jira
+  leadUsername: jarro06
+projectInformation:
+  projectName: Mój super nowy projekt
+  projectShortName: nowy_projekt345675
+  buildType: maven
+  testInstance: false
+  preprodInstance: false
+  uatInstance: false
+cloudService:
+  awsOrAzure: aks
+  deploymentLocation: azure_fc1
+automationService:
+  jenkinsOrGithubActions: jenkins
+  jenkinsAdmin: ""
+  jenkinsDeveloper: ""
+  jenkinsKubernetesAccess: ""
+  kvUserOrGroupName: ""
+  nexusKubernetesAccess: ""
+gheOrganization:
+  organizationName: jarro06
+  isNew: false
+testingTools:
+  sonarQube: true
+  adminGroup: ""
+  kubernetesAccess: ""
